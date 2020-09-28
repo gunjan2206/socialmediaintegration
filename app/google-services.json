@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179846818253",
+    "firebase_url": "https://gunjan-demo.firebaseio.com",
+    "project_id": "gunjan-demo",
+    "storage_bucket": "gunjan-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179846818253:android:7983b92999b87e40a1fc84",
+        "android_client_info": {
+          "package_name": "com.gunjan.slapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179846818253-4f3fok0dltmbjoilbaqga4kl54posv3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gunjan.slapp",
+            "certificate_hash": "93d43a8606e13e1156e915b15ac645f1e4b7026c"
+          }
+        },
+        {
+          "client_id": "179846818253-j84a8ltdqor40fe2ej1evjhvvdk2hcti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfIpHUReBjTbry1cPhFpX2gu1UxFRQQTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179846818253-j84a8ltdqor40fe2ej1evjhvvdk2hcti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
